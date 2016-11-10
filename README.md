@@ -1,4 +1,4 @@
-# flight-controller-
+# flight-controller
 flight controller with freertos 
 
 HARDWARE
